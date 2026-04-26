@@ -1,0 +1,13 @@
+**Prompt Engineering is really Contextualizing**
+
+Using Frontier LLMs like ChatGPT, Claude, etc. for quite enough, we all have our styles in asking the AI for help. These are my thoughts upon using prompts or may I say, how better to use AI! While I am not giving specific examples of my use cases or any general propmpt example, I am just writing my thoughts on the subject.
+
+The Genie Effect: The most important thing to remember of AI is that it's a Genie who will work for us, like a fellow human assisstant, at our disposal! Ordering a human assisstant doesn't require us to undergo any training and so prompting doesn't require any fancy training. However, there are etiquettes in talking to a subordinate, there are similar nuances in talking to a machine! The thing is AI or LLMs in context here is actually a code running on a computer and that is marvellous because it interacts like an intelligent human although in the behind the curtains it is digital code on sophisticated computers. It has no emotions like we do, but it has been made to talk to us, it has been created to become our Genie. How the hell did they do it is a deep engineering subject of Machine Learning. In a very short answer, there is a computer algorithm called Transformer that works as the brain of an AI LLM. It does all the Thinking, it has its Memory of sorts, and it works in different modes based on whether we want it to write poetry, become our therapist or make us build a software. TLDR, Interacting with an LLM should not be a course before trying it. 
+
+Specifics: The more specific our ask is, the better the LLM responds. The ask should not neither be too vague nor too dense. Just ask like we would talk to a fellow human, basic social skills.
+
+Test: Asking simple feedback questions to the LLM to gauge whether we are being understood is a no brainer.
+
+Taste: This is a bit nuanced. We have to tell the LLM what we are feeling on the topic we are asking, it is kind of being open to a fellow human. The LLM responds based on the feeling of the ask because those gets understood by LLMs a weights, as context, as words where to focus on. Of course, needless to say, humans have evil instincts within them and being open to AI with an evil eye is not something advised here. The better our taste, the better LLMs work for us.
+
+Human in the Loop: Relying everything on an LLM, an assisstant would be a bad idea. Verifying, judging, doing the most impact heavy tasks ourselves is the way to go. AI LLMs are at the end of the day just another tool.

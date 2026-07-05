@@ -1,6 +1,6 @@
 **Well, What is a Computer?**
 
-Well, with the talk of AI everywhere, and having read and gained some understanding of what's really happening, I am kind of **thinking about a Computer in 4-5 different phases, each built on top of the success of its previous state!**
+With the talk of AI everywhere, and having read and gained some understanding of what's really happening, I am kind of **thinking about a Computer in 4-5 different phases, each built on top of the success of its previous state!**
 
 **Phase 1: Calculation and Speed ->** A Computer was something humans could program for any algorithm. The Computer did that with lightning speed which humans would never be able to. **Think of Book Keeping, playing a game instantaneously on a personal device.**
 

@@ -13,3 +13,5 @@
 **Phase 5: Superintelligent and Evil or Savior? ->** This is my skepticism that after phase 3 and 4 succeed, **a few rigid evil hands could dominate the geo politics of the world by promoting radical ideas and extreme beliefs using the Computers of phase 5.** I also have a naive optimism that maybe if phase 3 and 4 succeed, **Computers of phase 5 would eventually help us solve climate change, poverty, governments, and diseases.** Maybe there would be a mix of both good and bad as it happens with all Technology advancements.
 
 Each phase has developed in overlap, not erasing the previous phase completely. I personally believe in being **optimistic** and supportive of keeping a **human in the loop** always. **We can outsource the thinking to a computer, but let's not outsource the decision making to any computer**, let humans have the freedom to decide!
+
+![Image info](Images/ComputerAndThinking.001.jpeg)

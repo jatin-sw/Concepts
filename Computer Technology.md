@@ -14,6 +14,6 @@
 
 Each phase has developed in overlap, not erasing the previous phase completely. I personally believe in being **optimistic** and supportive of keeping a **human in the loop** always. Let there be optimization on letting the **computer figure out the 'how'**, and let **a human finalise the 'what', the 'what not', and the 'why'**.
 
-**We can outsource the thinking to a computer, but let's not outsource the decision making to any computer**, let humans have the freedom to decide!
+**We can outsource the thinking to a computer, but let's not outsource the decision making to any computer**, let humans have the freedom to decide! The ethics in Technology is as important as the Technology itself, now more than ever.
 
 ![Image info](Images/ComputerAndThinking.jpeg)
